@@ -1,9 +1,11 @@
-import React from 'react'
+ import React from 'react'
+import "./index.css";
 import Home from './pages/Home'
 
 function App() {
   return (
-    <div >
+
+      <div >
       <Home/>
       </div>
   )
@@ -11,3 +13,5 @@ function App() {
 
 
 export default App
+
+
